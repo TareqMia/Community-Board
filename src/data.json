@@ -1,0 +1,54 @@
+{
+  "cards": [
+    {
+      "name": "Top 10 Weapons in Destiny 2",
+      "description": "Most powerful and popular weapons in the game.",
+      "url": "src/assets/images/best_wapons.jpeg"
+    },
+    {
+      "name": "The Best Exotic Armor Pieces",
+      "description": "Most unique and useful exotic armor pieces in the game.",
+      "url": "src/assets/images/best_armor.jpeg"
+    },
+    {
+      "name": "Destiny 2 Tips and Tricks",
+      "description": "Improve your gameplay with these tips and tricks.",
+      "url": "src/assets/images/tips_and_tricks.jpeg"
+    },
+    {
+      "name": "The Best Subclasses in Destiny 2",
+      "description": "Learn about the different subclasses and their strengths and weaknesses.",
+      "url": "src/assets/images/best_subclass.jpeg"
+    },
+    {
+      "name": "Destiny 2 Storyline Guide",
+      "description": "Discover the lore and story of the game.",
+      "url": "src/assets/images/best_armor.jpeg"
+    },
+    {
+      "name": "The Best Strikes and Raids",
+      "description": "Take on the toughest challenges in the game.",
+      "url": "src/assets/images/best_strikes.jpeg"
+    },
+    {
+      "name": "Destiny 2 PvP Guide",
+      "description": "Learn how to dominate in player-versus-player matches.",
+      "url": "src/assets/images/pvp_guide.jpeg"
+    },
+    {
+      "name": "The Best Locations in Destiny 2",
+      "description": "Explore the most beautiful and interesting locations in the game.",
+      "url": "src/assets/images/best_locations.jpeg"
+    },
+    {
+      "name": "The Best Destiny 2 Streamers",
+      "description": "Check out the most entertaining and informative Destiny 2 streamers.",
+      "url": "src/assets/images/best_streamers.jpeg"
+    },
+    {
+      "name": "Destiny 2 Easter Eggs and Secrets",
+      "description": "Discover the hidden secrets and Easter eggs in the game.",
+      "url": "src/assets/images/best_easter_eggs.jpeg"
+    }
+  ]
+}
